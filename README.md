@@ -5,3 +5,5 @@ To develop and evaluate a Membership Inference Attack (MIA) framework using Grad
 2.	XGBoost Documentation
 3.	[SDFVD Dataset Source Link]
 4.	OpenMined, PySyft for Privacy-preserving Machine Learning
+# code
+see the complete project on this https://colab.research.google.com/drive/1k27S1QzjrqxaLk8vu86PTZGOy2STQXMF#scrollTo=2zfROWzdEFhv
